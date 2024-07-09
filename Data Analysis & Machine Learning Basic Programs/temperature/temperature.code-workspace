@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "temperature",
+			"path": "."
+		},
+		{
+			"name": "nasdaq",
+			"path": "../nasdaq"
+		}
+	],
+	"settings": {}
+}
